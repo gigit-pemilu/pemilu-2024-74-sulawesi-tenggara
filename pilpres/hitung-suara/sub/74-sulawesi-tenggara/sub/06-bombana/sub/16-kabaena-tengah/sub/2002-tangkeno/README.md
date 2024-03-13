@@ -1,0 +1,6 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-74-sulawesi-tenggara/tree/main/pilpres/hitung-suara/sub/74-sulawesi-tenggara/sub/06-bombana/sub/16-kabaena-tengah/sub/2002-tangkeno/sub/001-tps)
+
