@@ -1,0 +1,8 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-74-sulawesi-tenggara/tree/main/pileg-dpr/hitung-suara/sub/74-sulawesi-tenggara/sub/11-kolaka-timur/sub/12-dangia/sub/2004-lamosila/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-74-sulawesi-tenggara/tree/main/pileg-dpr/hitung-suara/sub/74-sulawesi-tenggara/sub/11-kolaka-timur/sub/12-dangia/sub/2004-lamosila/sub/002-tps)
+
